@@ -1,0 +1,6 @@
+{
+  "name": "团队作品提交与预览工具",
+  "description": "一个支持实时预览、模拟API提交及作品列表展示的团队协作演示工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
